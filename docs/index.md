@@ -8,6 +8,8 @@ Paper coming soon :-)
 
 Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-991404/v1).
 
+> Beatriz García Santa Cruz, Jan Sölter, Gemma Gomez Giro et al. Generalising from Conventional Pipelines: A Case Study in Deep Learning-Based for High-Throughput Screening, 29 October 2021, PREPRINT (Version 1) available at Research Square. https://doi.org/10.21203/rs.3.rs-991404/v1
+
 ## Description
 
 The study of complex diseases relies on large amounts of data to build models toward precision medicine. Such data acquisition is feasible in the context of high-throughput screening, in which the quality of the results relies on the accuracy of the image analysis. Although state-of-the-art solutions for image segmentation employ deep learning approaches, the high cost of manually generating ground truth labels for model training hampers the day-to-day application in experimental laboratories. 
