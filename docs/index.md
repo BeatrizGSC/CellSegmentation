@@ -55,7 +55,7 @@ The following video depicts how to add the algorithm to the image labeler GUI in
 
 <br>
 
-## Acknowledgments and Contact
+## Acknowledgments
 
 - National Department of Neurosurgery, Centre Hospitalier de Luxembourg.
 - Interventional Neuroscience Group, Luxembourg Center for Systems Biomedicine, University of Luxembourg.
