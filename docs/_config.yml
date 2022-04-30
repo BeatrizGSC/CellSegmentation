@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: CellSegmentation
-description: MATLAB GUI tool for image segmentation of high-throughput high-content autophagy microscopy images.
+description: MATLAB GUI tool for image segmentation of autophagy events detected with Rosella pH-sensitive biosensor in high-throughput high-content microscopy images.
 show_downloads: true
 logo: /logo_small.gif
