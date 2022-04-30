@@ -32,7 +32,8 @@ To install the GUI in MATLAB:
 
 The following video depicts how to add the algorithm to the image labeler GUI in MATLAB and use it for Cell Segmentation.
 
-https://user-images.githubusercontent.com/40003970/166120756-c107c8e7-5ace-4ed8-9032-fa83082e4d24.mp4
+<video src="https://user-images.githubusercontent.com/40003970/166120756-c107c8e7-5ace-4ed8-9032-fa83082e4d24.mp4" controls="controls" style="width: 100%;">
+</video>
 
 ## Acknowledgments and Contact
 
