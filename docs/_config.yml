@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: CellSegmentation
+description: MATLAB GUI tool for image segmentation of high-throughput high-content cell microscopy images.
+show_downloads: true
+logo: /logo.png
