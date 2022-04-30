@@ -6,44 +6,33 @@ Welcome to the instructions to install CellSegmentation GUI for MATLAB
 
 Paper coming soon :-)
 
+Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-991404/v1).
+
 ## Description
 
+![Schema](https://beatrizgsc.github.io/CellSegmentation/figure_1_f.png)
 
+**Panel A**: General workflow of the proposed pipeline, part 1: (In blue, CIP-based DL: CDL). [1.1] First a weakly labelled dataset is created using conventional imaging processing (CIP). [1.2] After that, a U-net like architecture is trained and [1.3] the accuracy of the evaluated. Including an integration of the trained network in an intuitive tool for biologists that allows easy correction. 
+
+Proposed pipeline, part 2: (In green, for Manually based DL: MDL). [2.1] Manual corrected masks are easily generated using the GUI, which is employed to train a U-net from scratch [2.2]. 
+
+**Panel B**: The biological process of autophagy and its detection with Rosella biosensor. The four main phases are: The initial state - Phagophore, intermediate states~- Autophagosome and early autolysosome, and final state - Autolysosome. The fusion with the lysosome during the autophagy process yields a pH decrease which induces a change of colour in the fluorescent microscopy image.
 
 ## Instructions
 
-You can use the [editor on GitHub](https://github.com/BeatrizGSC/CellSegmentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To install the GUI in MATLAB:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 
 
-### Markdown
+## Video demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following video depicts how to add the algorithm to the image labeler GUI in MATLAB and use it for Cell Segmentation.
 
-```markdown
-Syntax highlighted code block
+https://user-images.githubusercontent.com/40003970/166120756-c107c8e7-5ace-4ed8-9032-fa83082e4d24.mp4
 
-# Header 1
-## Header 2
-### Header 3
+## Acknowledgments and Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeatrizGSC/CellSegmentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- National Department of Neurosurgery, Centre Hospitalier de Luxembourg.
+- Interventional Neuroscience Group, Luxembourg Center for Systems Biomedicine, University of Luxembourg.
+- Developmental and Cellular Biology, Luxembourg Center for Systems Biomedicine, University of Luxembourg.
+- Systems Control Group, Luxembourg Centere for Systems Biomedicine, University of Luxembourg.
