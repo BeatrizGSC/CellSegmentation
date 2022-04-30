@@ -34,7 +34,7 @@ Proposed pipeline, part 2: (In green, for Manually based DL: MDL). [2.1] Manual 
 
 ## Instructions
 
-To install the GUI in MATLAB:
+To install and use the GUI in MATLAB:
 
 - Use Matlab 2018 or later.
 - Install the following toolboxes: Image Labeler, Image Analysis, Deep Learning.
