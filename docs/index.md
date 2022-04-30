@@ -18,6 +18,8 @@ Proposed pipeline, part 2: (In green, for Manually based DL: MDL). [2.1] Manual 
 
 **Panel B**: The biological process of autophagy and its detection with Rosella biosensor. The four main phases are: The initial state - Phagophore, intermediate states~- Autophagosome and early autolysosome, and final state - Autolysosome. The fusion with the lysosome during the autophagy process yields a pH decrease which induces a change of colour in the fluorescent microscopy image.
 
+![Samples](https://beatrizgsc.github.io/CellSegmentation/samples.png)
+
 ## Instructions
 
 To install the GUI in MATLAB:
